@@ -72,3 +72,4 @@ console.log(undefined > 0);
 
 console.log("2" === 2); // here datatype wil also be checked 
 
+
